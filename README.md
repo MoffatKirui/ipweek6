@@ -22,3 +22,15 @@ Model 2: Predict how many goals the away team scores.
 Approach 2: Logistic approach
 
 Feature Engineering: Figure out from the home team’s perspective if the game is a Win, Lose or Draw (W, L, D)
+
+# Tools used
+colaboratory notebook
+
+# Language
+python
+
+# Author
+Moffat Kirui
+
+# Licence
+MIT 
